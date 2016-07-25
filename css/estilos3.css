@@ -1,0 +1,13 @@
+/*--HEDEAR--*/
+.navbar{
+	margin-bottom: 0;
+}
+
+/*media Querie para dispositvos moviles*/
+@media screen and (max-width: 768px){
+	.container .quote-box{
+		width: 100%; /*para que la imagen abarque el 100%*/
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+}
